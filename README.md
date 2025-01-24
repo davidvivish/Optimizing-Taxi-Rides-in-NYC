@@ -1,5 +1,5 @@
 # **Final Project: Optimizing Shared Taxi Rides in New York City**
-This project was conducted by a group of students from CEOR E4011: Infrastructure Systems Optimization at Columbia University.
+This project was conducted by a group of students from CEOR E4011: Infrastructure Systems Optimization at Columbia University. The report includes the code!
 
 ## **Overview**
 This project analyzes taxi trip data to optimize shared taxi rides in New York City. By exploring temporal and geographical patterns, the study leverages integer programming and optimization techniques to identify opportunities for pairing taxi trips. The goal is to reduce traffic congestion and promote environmental sustainability in urban transportation.
